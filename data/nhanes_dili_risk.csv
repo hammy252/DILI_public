@@ -1,0 +1,31 @@
+seqn,drug_concat,DILIrank_Risk,LiverTox_Risk
+1,"DOXAZOSIN MESYLATE, FUROSEMIDE, GLYBURIDE, HYDROCHLOROTHIAZIDE; SPIRONOLACTONE, METFORMIN HYDROCHLORIDE, PREDNISONE, VERAPAMIL HYDROCHLORIDE","Ambiguous DILI-concern, Ambiguous DILI-concern, No Data, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern","E*, E, B, C, D, B, E, B"
+2,"FEXOFENADINE HYDROCHLORIDE, QUINAPRIL HYDROCHLORIDE","vNo-DILI-Concern, vLess-DILI-Concern","E, E*"
+3,"CARBINOXAMINE MALEATE; DEXTROMETHORPHAN HYDROBROMIDE; PSEUDOEPHEDRINE HYDROCHLORIDE, CEFACLOR","vNo-DILI-Concern, vNo-DILI-Concern, vNo-DILI-Concern, vLess-DILI-Concern","E, No Score, E, C"
+4,,Unknown - no match,Unknown - no match
+5,"METOPROLOL SUCCINATE, PREDNISONE, TRIAMCINOLONE, ZOLPIDEM TARTRATE","Ambiguous DILI-concern, vLess-DILI-Concern, No Data, Unknown - no match","No Score, E, E, Unknown - no match"
+6,FLUTICASONE PROPIONATE,Unknown - no match,Unknown - no match
+7,"ALBUTEROL, ALLOPURINOL, ATORVASTATIN CALCIUM, BUPROPION HYDROCHLORIDE, DIGOXIN, FUROSEMIDE, GLIPIZIDE, ISOSORBIDE DINITRATE, LORAZEPAM, METFORMIN HYDROCHLORIDE, METOCLOPRAMIDE HYDROCHLORIDE, NITROGLYCERIN, POTASSIUM CHLORIDE, ROSIGLITAZONE MALEATE, WARFARIN SODIUM",Unknown,Unknown
+8,BROMPHENIRAMINE MALEATE; CODEINE PHOSPHATE; PHENYLPROPANOLAMINE HYDROCHLORIDE,"vNo-DILI-Concern, vNo-DILI-Concern, Unknown - no match","E, E, Unknown - no match"
+9,"CARBIDOPA; LEVODOPA, CELECOXIB, DIGOXIN, ENALAPRIL MALEATE, SELEGILINE HYDROCHLORIDE, TRIHEXYPHENIDYL HYDROCHLORIDE","No Data, vLess-DILI-Concern, vNo-DILI-Concern, vLess-DILI-Concern, vNo-DILI-Concern, vNo-DILI-Concern","E, B, E, B, E*, E*"
+10,,Unknown - no match,Unknown - no match
+11,,Unknown,Unknown
+12,LORATADINE,vNo-DILI-Concern,E*
+13,ATENOLOL; CHLORTHALIDONE,"vLess-DILI-Concern, Ambiguous DILI-concern","D, E*"
+14,"ALLOPURINOL, CARBAMAZEPINE, FUROSEMIDE","vMost-DILI-Concern, vMost-DILI-Concern, Ambiguous DILI-concern","A, A, E"
+15,,Unknown,Unknown
+16,LEVOTHYROXINE SODIUM,vLess-DILI-Concern,E
+17,,Unknown - no match,Unknown - no match
+18,"ALPRAZOLAM, DILTIAZEM HYDROCHLORIDE, RANITIDINE HYDROCHLORIDE, SERTRALINE HYDROCHLORIDE, TEMAZEPAM","vLess-DILI-Concern, vMost-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, Ambiguous DILI-concern","D, C, B, B, E"
+19,OMEPRAZOLE,vLess-DILI-Concern,B
+20,"AMLODIPINE BESYLATE, ATENOLOL, ENALAPRIL MALEATE, GLIPIZIDE, METFORMIN HYDROCHLORIDE, PRAVASTATIN SODIUM","vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern","C, D, B, C, B, B"
+21,"ALLOPURINOL, ASPIRIN, CLONAZEPAM, DIGOXIN, ENALAPRIL MALEATE, GABAPENTIN, GLIPIZIDE, LOVASTATIN, METFORMIN HYDROCHLORIDE, PAROXETINE HYDROCHLORIDE","vMost-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, vNo-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern","A, A [HD], D, E, B, C, C, B, B, B"
+22,,Unknown - no match,Unknown - no match
+23,,Unknown,Unknown
+24,"ACETAMINOPHEN; OXYCODONE HYDROCHLORIDE, BETAXOLOL HYDROCHLORIDE, FAMOTIDINE, FLUVASTATIN SODIUM, GABAPENTIN, ZOLPIDEM TARTRATE","vMost-DILI-Concern, vNo-DILI-Concern, Ambiguous DILI-concern, vLess-DILI-Concern, vLess-DILI-Concern, vLess-DILI-Concern, Ambiguous DILI-concern","A [HD], E, E, C, B, C, E"
+25,"ESTROGENS, CONJUGATED, HYDROCHLOROTHIAZIDE; METHYLDOPA, MEDROXYPROGESTERONE ACETATE","vLess-DILI-Concern, vMost-DILI-Concern, Unknown - no match, Unknown - no match","C, A, Unknown - no match, Unknown - no match"
+26,,Unknown - no match,Unknown - no match
+27,"MECLIZINE HYDROCHLORIDE, TRAZODONE HYDROCHLORIDE","vNo-DILI-Concern, vLess-DILI-Concern","E, B"
+28,ACETAMINOPHEN,vMost-DILI-Concern,A [HD]
+29,,Unknown - no match,Unknown - no match
+30,,Unknown,Unknown

@@ -1,0 +1,9 @@
+flask
+python-dotenv
+requests
+pandas
+pytest
+requests-mock
+flask-cors
+groq
+gunicorn
